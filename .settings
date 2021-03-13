@@ -5,3 +5,7 @@ alias vim='nvim'
 alias v-pc='ssh val@192.168.1.139'
 alias v-nb='ssh v@192.168.1.54'
 set -o vi
+
+
+
+. ~bin/sh/autoupdate.sh

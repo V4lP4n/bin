@@ -1,0 +1,4 @@
+alias srv1='ssh v@194.87.236.50'
+alias ast1='ssh astmin@192.168.122.132'
+alias ast2='ssh v@192.168.122.12'
+set -o vi

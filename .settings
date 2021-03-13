@@ -1,4 +1,7 @@
 alias srv1='ssh v@194.87.236.50'
 alias ast1='ssh astmin@192.168.122.132'
 alias ast2='ssh v@192.168.122.12'
+alias vim='nvim'
+alias v-pc='ssh val@192.168.1.139'
+alias v-nb='ssh v@192.168.1.54'
 set -o vi

@@ -8,4 +8,4 @@ set -o vi
 
 
 
-. ~bin/sh/autoupdate.sh
+. ~/bin/sh/autoupdate.sh
